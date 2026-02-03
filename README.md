@@ -1,4 +1,4 @@
-# mosip-api-playground
+
 
 # MOSIP API Playground
 
